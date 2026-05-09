@@ -17,7 +17,7 @@
 ## Example Usage:
 ```
 chmod 755 mdns-disco.py
-./mdns-disco.py
+./mdns-disco.py 192.168.1.0/24
 ```
 
 ---
