@@ -13,10 +13,10 @@ SAMPLE_DATA = []
 TOTAL_CONNS = 0
 
 ###################################################################################
-#  mdns-disco.py ---> Instructions & How To:                                      #
+#  mdns-disco.py ---> Instructions & How To (run as root):                        #
 #                                                                                 #
 #   [+] Scanning a /24 network (Note: Needs x.x.x.0/24 format to work properly!)  #
-#       python3 mdns-disco.py 192.168.1.0/24                                      #
+#       sudo python3 mdns-disco.py 192.168.1.0/24                                 #
 #                                                                                 #
 #   [+] Auto exports CSV file named "MDNS-DISCO-RESULTS.csv" in local directory!  #
 #       Hit CTRL-C to quit when you are done!                                     #
