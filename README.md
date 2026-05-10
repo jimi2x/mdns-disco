@@ -22,10 +22,10 @@ pip3 install scapy
 ```
 
 ---
-## Example Usage:
+## Example Usage (run as root):
 ```
 chmod 755 mdns-disco.py
-./mdns-disco.py 192.168.1.0/24
+sudo python3 mdns-disco.py 192.168.1.0/24
 
 Mash CTRL-C to quit.
 ```
