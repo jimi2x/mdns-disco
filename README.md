@@ -11,7 +11,7 @@
 * **Discovered services logging**
 * **Rogue device/mDNS sniffer detection**
 * **IPv6 device detection**
-* **CSV export of all captured data**
+* **CSV export of all captured data (outputs 'MDNS-DISCO-RESULTS.csv' to local directory)**
 
 ---
 ## Quick install notes:
